@@ -10,4 +10,4 @@ if dlib library causes a problem then u could go to the file of dlib in the fold
 make sure download of all it as a zip file so that the whole project is there ,
 and make sure u download shape_predictor_68_face_landmarks.dat in the same folder as the python file.
 _____________________________________________________________________________________________________________________________________________
-The dlib-19.24.1-cp311-win_amd64 (1).whl is the file for dlib not installing errors
+The dlib-19.24.1-cp311-win_amd64 (1).whl is the file for dlib installing errors
